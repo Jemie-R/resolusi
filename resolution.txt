@@ -1,9 +1,11 @@
 - Learn front end 
     reacJS-Vue.js
+    lsdjflsj
 - Learn back end
     php and js
 - Learn Database
     SQL or NO-SQL
+    
 - Finish some chalenge on git or another website chalenge code
     
 Get A job Junior web dev
