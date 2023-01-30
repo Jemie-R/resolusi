@@ -1,0 +1,8 @@
+- Learn front end 
+    reacJS-Vue.js
+- Learn back end
+    php and js
+- Learn Database
+    SQL or NO-SQL
+    
+Get A job Junior web dev
